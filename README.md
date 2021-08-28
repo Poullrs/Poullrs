@@ -1,4 +1,4 @@
-### Ola eu sou o Paulo 
+#### Ola eu sou o Paulo 
 - estudando Front-end 📚
 - aprendendo Phyton
 - empolgado com tudo que está acontecendo🤗
@@ -12,7 +12,7 @@
  
   </div>
 
-![Snake animation](https://github.com/Poullrs/Poullrs.git/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Poullrs/Poullrs/edit.git/blob/output/github-contribution-grid-snake.svg)
 
 
 
