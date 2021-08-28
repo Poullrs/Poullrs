@@ -23,4 +23,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ! [ Animação de cobra ] (https://github.com/Poullrs/Poullrs/blob/output/github-contribution-grid-snake.svg)
+  
